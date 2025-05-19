@@ -1,4 +1,4 @@
--- [[ xrb-Bartering - Main Script ]]
+-- [[ xrb-Bartering - Main Script ]] --
 local ESX = nil
 ESX = exports["es_extended"]:getSharedObject()
 
