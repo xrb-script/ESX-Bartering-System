@@ -1,4 +1,4 @@
--- [[ xrb-Bartering - Main Script ]]
+-- [[ xrb-Bartering - Main Script ]] --
 local ESX = nil
 local PlayerData = {}
 local isPlayerDead = false
